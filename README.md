@@ -34,8 +34,3 @@ This project covers essential Chrome Extension concepts:
    - Injecting content scripts programmatically with `chrome.scripting.executeScript`.
 6. **Storage**
    - Saving user preferences in `chrome.storage.local`.
-
----
-
-## 🧩 Project Structure
-
